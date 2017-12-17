@@ -1,5 +1,5 @@
 # COCO17-PDFs
-COCO17-presentations
+COCO17-presentations https://places-coco2017.github.io/#schedule
 
 pdf-links from cocodatast.org
 
